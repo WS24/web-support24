@@ -2465,7 +2465,13 @@ ul.how-it-works-col li:last-child:hover {
 #breakout small {
 	display: block;
 	margin-top: 18px;
-	font-size: 12px;
+	font-size: 14px;
+}
+
+.result {
+	display: block;
+	margin-top: 18px;
+	font-size: 14px;
 }
 
 /**
